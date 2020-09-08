@@ -9,3 +9,6 @@ This course for anyone  who want to be Kotlin programmer from scratch, We will  
 
 
 ![main](http://attach.alruabye.net/kotlin/kotlin.jpg)
+
+
+i am practicing 
